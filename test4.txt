@@ -2,3 +2,4 @@ hi test 4
 hello test 4
 retest by renaming the .git-credentials file
 retest 2 by renaming the .git-credentials file
+retest 3 by renaming the .git-credentials file
