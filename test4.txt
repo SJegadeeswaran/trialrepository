@@ -4,3 +4,4 @@ retest by renaming the .git-credentials file
 retest 2 by renaming the .git-credentials file
 retest 3 by renaming the .git-credentials file
 retest 4 by renaming the .git-credentials file
+retest 5 by renaming the .git-credentials file
